@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pulkit Gupta</h1>
 <h3 align="center">Passionate Problem Solver, adaptable and versatile, perceptive MERN Developer and dedicated DSA enthusiast</h3>
 
-<img align-"right" alt="coding" width="400" src="https://drive.google.com/file/d/1mY1l90JC1P8jahYKH_TyQGp9CTl0G6In/view?usp=sharing">
+<img align-"right" alt="coding" width="400" src="https://i.postimg.cc/DwmPYjC1/background.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pulkit95700" alt="pulkit95700" /></a> </p>
 
