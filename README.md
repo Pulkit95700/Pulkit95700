@@ -1,4 +1,4 @@
-![logo](https://github.com/Pulkit95700/Pulkit95700/blob/main/pulkitgif)
+![logo](https://github.com/Pulkit95700/Pulkit95700/blob/main/pulkit.gif)
 <h1 align="center">Hi 👋, I'm Pulkit Gupta</h1>
 <h3 align="center">Passionate Problem Solver, adaptable and versatile, perceptive MERN Developer and dedicated DSA enthusiast</h3>
 
