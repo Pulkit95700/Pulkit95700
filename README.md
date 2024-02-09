@@ -1,4 +1,7 @@
-<img align="right" alt="coding" width="800" src="https://www.freepik.com/free-ai-image/person-playing-3d-video-games-device_94950229.htm#query=CODING&position=13&from_view=search&track=sph&uuid=18cb3c61-6e27-47b2-96eb-dad31dfa3a9c?log-in=google" />
+<video controls loop>
+  <source src="https://res.cloudinary.com/djer7jle7/video/upload/v1707496569/pulkit_zxyqhm.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <h1 align="center">Hi 👋, I'm Pulkit Gupta</h1>
 <h3 align="center">Passionate Problem Solver, adaptable and versatile, perceptive MERN Developer and dedicated DSA enthusiast</h3>
