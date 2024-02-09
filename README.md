@@ -1,7 +1,4 @@
-<video controls loop>
-  <source src="https://res.cloudinary.com/djer7jle7/video/upload/v1707496569/pulkit_zxyqhm.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img align="center" width="800" src="https://res.cloudinary.com/djer7jle7/image/upload/v1707496781/khjuvfjld0h9oftio8ob.gif" />
 
 <h1 align="center">Hi 👋, I'm Pulkit Gupta</h1>
 <h3 align="center">Passionate Problem Solver, adaptable and versatile, perceptive MERN Developer and dedicated DSA enthusiast</h3>
